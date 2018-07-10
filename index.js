@@ -1,0 +1,1 @@
+const { 'a-name': anotherName } = { 'a-name': 123 };
